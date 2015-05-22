@@ -2,7 +2,7 @@
 ## be some benefit to caching the inverse of a matrix rather than 
 ## computing it repeatedly. The following pair of functions cache 
 ## the inverse of a matrix so that it need not be repeatedly 
-## computed after being done once.
+## computed after being done once. 
 
 ## The first function, `makeCacheMatrix` creates a special "matrix"
 ## object, that can cache its inverse. 
